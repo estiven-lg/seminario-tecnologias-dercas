@@ -1,0 +1,49 @@
+site_name: DERCAS — Sistema de Gestión de Incidencias
+site_description: Documento de Especificaciones, Requerimientos y Criterios de Aceptación del Software
+
+theme:
+  name: material
+  language: es
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Inicio: index.md
+  - Introducción: 01-introduccion.md
+  - Descripción del proyecto: 02-descripcion.md
+  - Alcance: 03-alcance.md
+  - Requerimientos:
+      - Requerimientos funcionales: 04-requerimientos-funcionales.md
+      - Requerimientos no funcionales: 05-requerimientos-no-funcionales.md
+      - Reglas de negocio: 06-reglas-negocio.md
+  - Criterios de aceptación: 07-criterios-aceptacion.md
+  - Análisis:
+      - Casos de uso: 08-casos-uso.md
+      - Procesos: 09-procesos.md
+  - Diseño:
+      - Arquitectura: 10-arquitectura.md
+      - Modelo de datos: 11-modelo-datos.md
+      - Diagramas: 12-diagramas.md
+  - Prototipo: 13-prototipo.md
+  - Cronograma: 14-cronograma.md
+  - Referencias: 15-referencias.md

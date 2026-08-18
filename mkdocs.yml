@@ -28,22 +28,20 @@ plugins:
   - search
 
 nav:
-  - Inicio: index.md
-  - Introducción: 01-introduccion.md
-  - Descripción del proyecto: 02-descripcion.md
-  - Alcance: 03-alcance.md
-  - Requerimientos:
-      - Requerimientos funcionales: 04-requerimientos-funcionales.md
-      - Requerimientos no funcionales: 05-requerimientos-no-funcionales.md
-      - Reglas de negocio: 06-reglas-negocio.md
-  - Criterios de aceptación: 07-criterios-aceptacion.md
-  - Análisis:
-      - Casos de uso: 08-casos-uso.md
-      - Procesos: 09-procesos.md
-  - Diseño:
-      - Arquitectura: 10-arquitectura.md
-      - Modelo de datos: 11-modelo-datos.md
-      - Diagramas: 12-diagramas.md
+  - Portada: portada.md
+  - Introducción: Introduccion.md
+  - Descripción del proyecto: Descripcion.md
+  - Alcance: Alcance.md
+  - Especificación de Requerimientos: Requerimientos.md
+  - Reglas de negocio: ReglasNegocio.md
+  - Criterios de aceptación: CriteriosAceptacion.md
+  - Casos de uso: CasosUso.md
+  - Análisis y Diseño:
+      - Arquitectura: Arquitectura.md
+      - Modelo de datos: ModeloDatos.md
+      - herramientas MCP: HerramientasMCP.md
+      - Diagrama de sequencia: DiagramaSecuencia.md
+      - Diseño de Seguridad: DisenioSeguridad.md
   - Prototipo: 13-prototipo.md
   - Cronograma: 14-cronograma.md
   - Referencias: 15-referencias.md

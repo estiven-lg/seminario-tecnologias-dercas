@@ -25,7 +25,7 @@ A continuación se presentan dos ejemplos representativos de este tipo de intera
 Estos ejemplos evidencian la capacidad del sistema para resolver tanto consultas descriptivas simples (listados) como consultas analíticas que requieren agregación y comparación de datos, sin que el operador deba tener conocimiento previo de la estructura de la base de datos ni de los criterios técnicos de filtrado aplicados.
 
 ![consulta descriptiva](./assets/mcp-consulta1.png)
-![consulta analítica](./assets/mcp-consul.png)
+![consulta analítica](./assets/mcp-consulta2.png)
 
 
 ## Auditoría y trazabilidad

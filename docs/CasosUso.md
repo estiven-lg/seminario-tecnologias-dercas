@@ -1,3 +1,4 @@
+# Casos de uso
 El sistema contempla dos actores principales: el Usuario operador, quien pertenece a una empresa cliente (workspace) y formula peticiones en lenguaje natural, y el Agente de IA (cliente MCP), un actor externo elegido libremente por el usuario, responsable de interpretar dichas peticiones y determinar qué herramientas MCP invocar.
 
 ![Diagrama de casos de uso](./assets/diagrama-casos-uso.png)

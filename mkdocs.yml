@@ -42,6 +42,6 @@ nav:
       - herramientas MCP: HerramientasMCP.md
       - Diagrama de sequencia: DiagramaSecuencia.md
       - Diseño de Seguridad: DisenioSeguridad.md
-  - Prototipo: 13-prototipo.md
-  - Cronograma: 14-cronograma.md
-  - Referencias: 15-referencias.md
+  - Prototipo: Prototipo.md
+  - Cronograma: Cronograma.md
+  - Referencias: Referencias.md

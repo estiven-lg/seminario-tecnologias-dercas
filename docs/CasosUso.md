@@ -5,7 +5,7 @@ El sistema contempla dos actores principales: el Usuario operador, quien pertene
 
 El diagrama de casos de uso refleja el carácter read-only del sistema: toda interacción culmina en la obtención de datos del sistema y, opcionalmente, en la generación de un análisis agregado sobre dichos datos, sin contemplar casos de uso de escritura o modificación.
 
-# Actores del sistema
+## Actores del sistema
 
 En el sistema se identifican dos actores principales que intervienen en el procesamiento de las solicitudes: el **usuario operador** y el **agente de inteligencia artificial**. Cada actor desempeña un rol específico dentro del proceso de interacción y procesamiento de las consultas.
 
@@ -14,7 +14,7 @@ En el sistema se identifican dos actores principales que intervienen en el proce
 2. **Agente de inteligencia artificial:** Servicio externo encargado del procesamiento del lenguaje natural que interpreta las solicitudes realizadas por el usuario, determina las herramientas MCP requeridas para atenderlas, ejecuta las operaciones correspondientes mediante el servidor MCP y procesa los resultados obtenidos para generar una respuesta estructurada al usuario.
 
 
-# especificación de casos de uso
+## Especificación de casos de uso
 
 ### CU-01 Autenticarse
 

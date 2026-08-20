@@ -1,4 +1,4 @@
-## Arquitectura del Sistema
+# Arquitectura del Sistema
 
 La arquitectura del sistema se organiza en torno al **Model Context Protocol (MCP)**, que permite desacoplar el agente de inteligencia artificial utilizado por el usuario de las herramientas que proporcionan acceso a los datos y capacidades operativas del sistema.
 
@@ -18,7 +18,7 @@ Los principales componentes de la arquitectura son los siguientes:
 
 * **PostgreSQL:** sistema gestor de bases de datos relacional encargado de almacenar la información operativa de campo utilizada por el sistema.
 
-### Flujo general de interacción
+## Flujo general de interacción
 
 El usuario operador formula una consulta en lenguaje natural mediante el agente de inteligencia artificial de su elección. El agente interpreta la consulta y determina qué herramienta o conjunto de herramientas MCP son necesarias para atenderla. Posteriormente, envía las solicitudes correspondientes al servidor MCP.
 

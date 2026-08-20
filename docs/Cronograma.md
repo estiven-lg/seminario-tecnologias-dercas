@@ -1,3 +1,5 @@
+# Cronograma
+
 El siguiente cronograma presenta la planificación de las actividades del proyecto organizadas conforme a las fases clásicas del ciclo de vida del desarrollo de software: análisis de requerimientos, diseño, implementación, pruebas, despliegue y mantenimiento. Cada fase agrupa las actividades técnicas y documentales correspondientes, alineadas con las fechas de entrega establecidas para el curso de Seminario de Tecnologías de Información
 
 |  # | Fase del ciclo de vida      | Actividad asociada                                    | Fecha inicio | Fecha fin  |

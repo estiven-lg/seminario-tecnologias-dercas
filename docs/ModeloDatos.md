@@ -1,4 +1,4 @@
-## Modelo de Datos
+# Modelo de Datos
 
 El sistema no requiere un esquema de base de datos independiente, sino que extiende el modelo de datos existente mediante tres entidades nuevas que habilitan la autenticación OAuth2 con aislamiento por espacio de trabajo (workspace), el registro de aplicaciones cliente y la auditoría de las invocaciones realizadas a través del servidor MCP. Las tres entidades se integran al modelo Workspace, ya definido previamente en el sistema.
 

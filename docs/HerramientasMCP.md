@@ -1,4 +1,4 @@
-## Diseño de las Herramientas MCP
+# Diseño de las Herramientas MCP
 
 El servidor MCP expone dos tipos de herramientas para atender las solicitudes formuladas por el usuario a través del agente de inteligencia artificial. El primer tipo corresponde a **tools específicas**, que implementan lógica de negocio particular para resolver consultas analíticas o de procesamiento complejo sobre los datos operativos (por ejemplo, análisis de distribución de valores en formularios de campo). El segundo tipo corresponde a **collections**, que exponen de manera genérica los modelos de datos existentes del sistema para su consulta y filtrado, mediante clases base reutilizables que estandarizan el acceso a través de operadores comunes (`$match`, `$sort`, `$limit`). Ambos tipos de herramientas son registrados por el servidor MCP y se encuentran sujetos a los mecanismos de autenticación y autorización descritos en la sección de diseño de seguridad.
 

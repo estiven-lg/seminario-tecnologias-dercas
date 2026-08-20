@@ -26,16 +26,12 @@ markdown_extensions:
 
 plugins:
   - search
-  # - pdf-export:
-  #     combined: false
-  #     media_type: print
-  #     enabled_if_env: ENABLE_PDF_EXPORT
   - with-pdf:
       cover_title: DERCAS — Sistema de Gestión de Incidencias
       cover_subtitle: Documento de Especificaciones, Requerimientos y Criterios de Aceptación del Software
       toc_title: Contenido
       output_path: pdf/DERCAS-Especificaciones.pdf
-      
+
 
 nav:
   - Portada: portada.md

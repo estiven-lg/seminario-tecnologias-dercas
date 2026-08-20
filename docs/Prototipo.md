@@ -1,3 +1,5 @@
+# Prototipo
+
 El presente apartado tiene como propósito presentar evidencia visual del funcionamiento del sistema desarrollado bajo la arquitectura basada en Model Context Protocol (MCP), descrita en los capítulos anteriores del presente documento. A diferencia de una sección tradicional de mockups, en la cual se presentan bocetos o propuestas de diseño previas a la implementación, esta sección expone capturas de pantalla correspondientes al prototipo funcional ya construido, dado que al momento de la elaboración de este documento el sistema se encuentra en una etapa operativa de desarrollo.
 
 Las capturas presentadas a continuación ilustran los principales flujos de interacción contemplados en el sistema, particularmente la comunicación entre el Usuario operador y el Agente de IA a través de consultas en lenguaje natural, así como los mecanismos administrativos de gestión de aplicaciones y tokens de acceso MCP. Cada captura se acompaña de una breve descripción y se vincula, cuando corresponde, con el requerimiento funcional (RF) que ilustra, a fin de mantener la trazabilidad metodológica establecida en secciones previas de este documento.

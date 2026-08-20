@@ -12,10 +12,12 @@
 
 **DERCAS: Documento de Especificaciones, Requerimientos y Criterios de Aceptación del Software**
 
-# Consulta y Análisis de Datos Operativos de Campo mediante un Sistema Basado en el Protocolo de Contexto de Modelo (MCP)
+**Consulta y Análisis de Datos Operativos de Campo mediante un Sistema Basado en el Protocolo de Contexto de Modelo (MCP)**
 
 **Presenta:** Estiven Joel Laferre Guevara
 
 **Carné:** 7690-22-2644
 
 **Guatemala, segundo semestre 2026**
+
+**repositorio:** [Seminario de Tecnologías - DERCAS](https://github.com/estiven-lg/seminario-tecnologias-dercas.git)
